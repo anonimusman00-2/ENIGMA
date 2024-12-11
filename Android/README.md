@@ -112,7 +112,7 @@ Settings like this
 
 # التثبيت
 
-قم بتثبيت تيرمكس من https://f-droid.org/id/packages/com.termux/
+قم بتثبيت تيرمكس من https://f-droid.org/id/packages/com.termux
 
 -إذا قمت بتثبيت F-droid، ابحث مباشرة عن
 
