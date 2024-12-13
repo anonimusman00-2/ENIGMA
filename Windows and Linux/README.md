@@ -1,6 +1,6 @@
 # INSTALLATION
 
-Windows Download Link : https://app.mediafire.com/zkzwqobgol87z
+If error Click Here For Windows Download Link : https://app.mediafire.com/zkzwqobgol87z
 
 For Windows Just Run exe 1 for English and 1 For Arabic
 
@@ -18,7 +18,8 @@ python Enigma-AR.py
 
 # التثبيت
 
-رابط التحميل لنظام ويندوز: https://app.mediafire.com/zkzwqobgol87z
+إذا حدث خطأ، انقر هنا للتحميل من رابط Windows : https://app.mediafire.com/zkzwqobgol87z
+
 
 بالنسبة لنظام ويندوز، ما عليك سوى تشغيل الملف التنفيذي exe 1 للغة الإنجليزية و 1 للغة العربية
 
